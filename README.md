@@ -167,14 +167,15 @@ networkwalks-week2-cybersecurity-project/
 │
 ├── README.md
 │
-├── footprinting-with-kali-tools/
-│   ├── 
-│   ├── whois.txt
-│   ├── whatweb.txt
-│   ├── nslookup.txt
-│   ├── curl-headers.txt
-│   ├── wafw00f.txt
-│   ├── dnsrecon.txt
+├── module1-recon-with-kali/
+│   ├── module1-report-recon-with-kali.docx
+    ├── docs
+│       ├── whois.txt
+│       ├── whatweb.txt
+│       ├── nslookup.txt
+│       ├── curl-headers.txt
+│       ├── wafw00f.txt
+│       ├── dnsrecon.txt
 │   └── screenshots/
 │       ├── whois.png
 │       ├── whatweb.png
@@ -183,7 +184,7 @@ networkwalks-week2-cybersecurity-project/
 │       ├── wafw00f.png
 │       └── dnsrecon.png
 │
-└── network-scanning-with-zenmap/
+└── module5-zenmap scanning/
     ├── module5-report-zenmap-network-scanning.docx
     ├── docs/
         ├── topology.pdf
